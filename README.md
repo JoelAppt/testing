@@ -1,10 +1,10 @@
-#AWS Resource Report Script
+# AWS Resource Report Script
 
-##Overview
+## Overview
 
 This script automates the process of listing all resources in an AWS account and sends a report via email.
 
-##Features
+## Features
 
 - Retrieves and lists AWS resources including EC2, RDS, S3, CloudFront, VPC, IAM, Route53, CloudWatch, CloudFormation, Lambda, SNS, SQS, DynamoDB, and EBS.
 
