@@ -10,4 +10,4 @@ This script automates the process of listing all resources in an AWS account and
 
 - Logs the report to a specified file.
 
-- Automatically emails the report to the configured recipient.
+- Automatically emails the report to the configured recipient
